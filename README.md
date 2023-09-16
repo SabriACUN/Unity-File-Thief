@@ -23,3 +23,8 @@ service firebase.storage{
 }  
 </pre>
 **TURN TO UNITY**  
+10- Create a new folder. Name of the folder should be "StreamingAssets"  not with (") - (NAME IS IMPORTANT)  
+11- Add config file to that folder. (Config file in the 6th step of the set up)  
+12- Extract the Firebase SDK zip and hold FirebaseStorage.unitypackages and drop to project panel on the unity  
+13- Import all  
+14- Create new GameObject and 
