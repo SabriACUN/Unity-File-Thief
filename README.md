@@ -13,6 +13,7 @@ FOR FIREBASE
 8- Under the "Storage" text, select Rules.  
 9- Delete the texts of Rules File. And Copy and Paste that Rule :  
 """  
+<pre>
 rules_version ='2';  
 service firebase.storage{  
   match /b/{bucket}/o {  
@@ -21,4 +22,5 @@ service firebase.storage{
     }  
   }  
 }  
+</pre>
 """  
