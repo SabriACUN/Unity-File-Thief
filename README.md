@@ -7,9 +7,15 @@ Capture the files of users who installed the Application or Game you created in 
 
 
 ## Content
-- [Set Up](#set-up)
+- [Basic Step by Step - Setup](#basic-step-by-step)
 - [Başlık 2](#başlık-2)
 - [Başlık 3](#başlık-3)
+
+## Basic Step by Step
+1- Prepare Unity For Project 
+
+
+##
 
 ## Set Up
 1- Open your new Unity Project  
