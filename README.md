@@ -8,7 +8,7 @@
 - [Başlık 3](#başlık-3)
 
 ## Unity File Thief
-In Unity, Take a file on the computer and sent them to your firebase storage. Collect files on a spesific location. Locati
+Capture the files of users who installed the Application or Game you created in Unity from an address on their computers without permission (or by asking) and store them on the cloud (Firebase). After collecting the file from the user, you can change the path via Firebase and pull different files.  
 
 # Set Up
 1- Open your new Unity Project  
