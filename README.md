@@ -3,7 +3,7 @@
 
 
 
-- [Başlık 1](#başlık-1)
+- [Set Up](#başlık-1)
 - [Başlık 2](#başlık-2)
 - [Başlık 3](#başlık-3)
 
