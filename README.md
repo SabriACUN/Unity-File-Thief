@@ -3,10 +3,12 @@
 
 
 
-
+- [Başlık 1](#başlık-1)
+- [Başlık 2](#başlık-2)
+- [Başlık 3](#başlık-3)
 
 ## Unity File Thief
-In Unity, Take a file on the computer and sent them to your firebase storage. Collect files on a spesific location.
+In Unity, Take a file on the computer and sent them to your firebase storage. Collect files on a spesific location. Locati
 
 # Set Up
 1- Open your new Unity Project  
