@@ -56,3 +56,6 @@ service firebase.storage{
 22- When the users open your game; If they have that file, Our game take its file.  
 23- Files go to Storage. You can see the documents on that tab.  
 
+
+
+## Set Up v2.0
