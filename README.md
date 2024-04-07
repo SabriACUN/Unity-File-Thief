@@ -102,4 +102,4 @@ service firebase.storage{
 &nbsp;&nbsp;&nbsp;&nbsp;·Add config file to that folder (google-services)   
 14- Extract the Firebase SDK zip and hold FirebaseStorage.unitypackages & FirebaseDatabase.unitypackage and drop to project panel on the Unity. and Import   
 15- Create new GameObject and add fileThieff.cs & takeString.cs to your GameObject.    
--- For logs and errors that may be encountered, the log printing system is included in the codes, so you can delete it if you want or assign the necessary texts to the desired places as a reference   
+[ -- For logs and errors that may be encountered, the log printing system is included in the codes, so you can delete it if you want or assign the necessary texts to the desired places as a reference. -- ]  
