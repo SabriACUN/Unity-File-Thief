@@ -84,4 +84,15 @@ service firebase.storage{
 11- Click "Get Started"   
 &nbsp;&nbsp;&nbsp;&nbsp;· Start in production mode, Next!   
 &nbsp;&nbsp;&nbsp;&nbsp;· Select Best "Cloud Storage Location" for your Location. Done!
-&nbsp;&nbsp;&nbsp;&nbsp;·
+12- Under the "Storage" text, select Rules.
+13- Delete the texts of Rules File. And Copy and Paste that Rule :  
+<pre>
+rules_version ='2';  
+service firebase.storage{  
+  match /b/{bucket}/o {  
+    match /{allPaths=**} {  
+      allow read, write:if true;  
+    }  
+  }  
+}  
+</pre>
