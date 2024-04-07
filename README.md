@@ -78,4 +78,10 @@ service firebase.storage{
 &nbsp;&nbsp;7- Register App   
 &nbsp;&nbsp;8- Dont download "config file" for now. Next Button !   
 &nbsp;&nbsp;9- Download Firebase Unity SDK (Zip) and Continue to Console.   
-10- S
+10- Open Sidebar ( If its closed )   
+&nbsp;&nbsp;&nbsp;&nbsp;· Under the "Product Categories" open "Build"   
+&nbsp;&nbsp;&nbsp;&nbsp;· Open "Storeage"   
+11- Click "Get Started"   
+&nbsp;&nbsp;&nbsp;&nbsp;· Start in production mode, Next!   
+&nbsp;&nbsp;&nbsp;&nbsp;· Select Best "Cloud Storage Location" for your Location. Done!
+&nbsp;&nbsp;&nbsp;&nbsp;·
