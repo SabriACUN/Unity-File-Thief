@@ -60,8 +60,8 @@ service firebase.storage{
 
 ## Set Up v2.0
 1- Open your new Unity Project on Unity Hub   
-   
-   
+    
+    
 **🛠️ SET FIREBASE REALTIME DATABASE & STORAGE FOR UNITY 🛠️**   
    
 2- Go to : https://console.firebase.google.com/ . If you dont have any account, Sing Up   
