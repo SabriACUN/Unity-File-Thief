@@ -59,23 +59,23 @@ service firebase.storage{
 
 
 ## Set Up v2.0
-1- Open your new Unity Project on Unity Hub   
+ 1- Open your new Unity Project on Unity Hub   
 <br>
 <br>
 **🛠️ SET FIREBASE REALTIME DATABASE & STORAGE FOR UNITY 🛠️**   
    
-2- Go to : https://console.firebase.google.com/ . If you dont have any account, Sing Up   
-3- Add new Project on Firebase Console ;   
+ 2- Go to : https://console.firebase.google.com/ . If you dont have any account, Sing Up   
+ 3- Add new Project on Firebase Console ;   
 &nbsp;&nbsp;&nbsp;&nbsp;· Enter a Project Name   
 &nbsp;&nbsp;&nbsp;&nbsp;· (Don't need to enable "Google Analytics")   
 &nbsp;&nbsp;&nbsp;&nbsp;· Create Project   
-4- Add the application to be used in the project panel you opened as Unity   
+ 4- Add the application to be used in the project panel you opened as Unity   
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SabriACUN/Unity-File-Thief/assets/96339137/37fc2ca2-5789-4f6f-9de2-b81412b0fee8" width="250"/>
 
-5- Choose the Register Type for Operating System (recommend : Android)   
-6- Fill the first blank (com.company.appname) [ !! Not important what you write, Write according to the format ]   
-7- Register App   
-8- Dont download "config file" for now. Next Button !   
-9- Download Firebase Unity SDK (Zip) and Continue to Console.   
+ 5- Choose the Register Type for Operating System (recommend : Android)   
+ 6- Fill the first blank (com.company.appname) [ !! Not important what you write, Write according to the format ]   
+ 7- Register App   
+ 8- Dont download "config file" for now. Next Button !   
+ 9- Download Firebase Unity SDK (Zip) and Continue to Console.   
 10-
