@@ -96,3 +96,4 @@ service firebase.storage{
   }  
 }  
 </pre>
+14- For NOW its not important "Your security rules are defined as public, so anyone can steal, modify, or delete data in your database"
