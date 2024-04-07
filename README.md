@@ -92,6 +92,8 @@ service firebase.storage{
 11- Go to Sidebar and open Build again. Choose Realtime Database.   
 &nbsp;&nbsp;&nbsp;&nbsp;· Create Database   
 &nbsp;&nbsp;&nbsp;&nbsp;· You can open in Test Mode.
+&nbsp;&nbsp;&nbsp;&nbsp;· Add a new var.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yol  :   "path"   
 12- In the Sidebar there is a Settings Button. Click on it. Choose "Project Settings"   
 &nbsp;&nbsp;&nbsp;&nbsp;· "General > Your apps" Download "google-services"   
 <br>
@@ -107,7 +109,7 @@ service firebase.storage{
 <br>
 <br>
 
-**SET THE SCRIPT FOR YOUR OWN DATABASE**   
+**🛠️ SET THE SCRIPT FOR YOUR OWN DATABASE 🛠️**   
 <br>
 
 16- Go to Firebase Project > Storage. Copy Url which starts with gs (example ->  gs://file-thief.appspot.com )   
@@ -115,4 +117,5 @@ service firebase.storage{
 <pre>
 "StorageReference storageRef = storage.GetReferenceFromUrl("gs://file-thied.appspot.com/").Child(storagePath);" 
 </pre>
-&nbsp;&nbsp;&nbsp;&nbsp;· Delete that part  ""gs://file-thied.appspot.com/"" and paste your Url  
+&nbsp;&nbsp;&nbsp;&nbsp;· Delete that part  ""gs://file-thied.appspot.com/"" and paste your Url.     
+18- 
