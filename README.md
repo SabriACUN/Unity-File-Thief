@@ -78,4 +78,4 @@ service firebase.storage{
  7- Register App   
  8- Dont download "config file" for now. Next Button !   
  9- Download Firebase Unity SDK (Zip) and Continue to Console.   
-10-
+10- S
