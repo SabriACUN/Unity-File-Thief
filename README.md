@@ -13,6 +13,12 @@ Capture the files of users who installed the Application or Game you created in 
 
 ## How to Use
 
+<br>
+<br>
+<br>
+<br>
+
+
 ## Set Up
 &nbsp;&nbsp;1- Open your new Unity Project on Unity Hub   
 <br>
