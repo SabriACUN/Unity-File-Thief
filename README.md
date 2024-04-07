@@ -65,8 +65,8 @@ service firebase.storage{
 2- Go to : https://console.firebase.google.com/ . If you dont have any account, Sing Up   
 3- Add new Project on Firebase Console ;   
 <p>&nbsp;&nbsp;&nbsp;· Enter a Project Name</p>   
-   · (Don't need to enable "Google Analytics")   
+<p>&#2002;&#2002;&#2002;· (Don't need to enable "Google Analytics")</p> 
    · Create Project   
 4-   
-<p>Yazılım&nbsp;&nbsp;&nbsp;Bilişim</p>
+
 
