@@ -80,4 +80,4 @@ service firebase.storage{
 18- Go to Editor and Set Referances for all scripts in Inspector   
 
 **Its Ready to Use !**
-- [How to Use](#ho-to-use)
+- [How to Use](#how-to-use)
