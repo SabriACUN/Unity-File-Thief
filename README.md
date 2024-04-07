@@ -18,7 +18,6 @@ Watch the Usage - https://youtu.be/q9tfqz6c1ss
 ## Set Up
 &nbsp;&nbsp;1- Open your new Unity Project on Unity Hub   
 <br>
-<br>
 **🛠️ SET FIREBASE REALTIME DATABASE & STORAGE FOR UNITY 🛠️**   
    
 &nbsp;&nbsp;2- Go to : https://console.firebase.google.com/ . If you dont have any account, Sing Up   
