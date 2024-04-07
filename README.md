@@ -12,11 +12,10 @@ Capture the files of users who installed the Application or Game you created in 
 
 
 ## How to Use
+Watch the Usage - https://youtu.be/q9tfqz6c1ss
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
 
 
 ## Set Up
