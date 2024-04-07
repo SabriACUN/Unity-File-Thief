@@ -94,11 +94,11 @@ service firebase.storage{
 &nbsp;&nbsp;&nbsp;&nbsp;· Create Database   
 &nbsp;&nbsp;&nbsp;&nbsp;· You can open in Test Mode.
 12- In the Sidebar there is a Settings Button. Click on it. Choose "Project Settings"   
-&nbsp;&nbsp;&nbsp;&nbsp;·[General > Your apps] Download "google-services"   
+&nbsp;&nbsp;&nbsp;&nbsp;· "General > Your apps" Download "google-services"   
 <br>
 <br>
 **🛠️ SET UNITY FOR FIREBASE 🛠️** 
 <br>
 13- Go to Unity. Create a new folder. Name of the folder should be "StreamingAssets"  not with (") - (NAME IS IMPORTANT) 
 &nbsp;&nbsp;&nbsp;&nbsp;·Add config file to that folder (google-services)
-14- 
+14- Extract the Firebase SDK zip and hold FirebaseStorage.unitypackages & FirebaseDatabase.unitypackage and drop to project panel on the Unity
