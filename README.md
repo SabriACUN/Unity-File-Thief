@@ -63,9 +63,8 @@ service firebase.storage{
 <br>
 <br>
 
-**🛠️ SET THE SCRIPT FOR YOUR OWN DATABASE 🛠️**   
+**🛠️ SET THE SCRIPT FOR YOUR OWN DATABASE 🛠️**
 <br>
-
 16- Go to Firebase Project > Storage. Copy Url which starts with gs (example ->  gs://file-thief.appspot.com )   
 17- Turn to our script. Find that code line :   
 <pre>
