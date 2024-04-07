@@ -64,9 +64,9 @@ service firebase.storage{
 **🛠️ SET FIREBASE REALTIME DATABASE & STORAGE FOR UNITY 🛠️**   
 2- Go to : https://console.firebase.google.com/ . If you dont have any account, Sing Up   
 3- Add new Project on Firebase Console ;   
-<p>&nbsp;&nbsp;&nbsp;· Enter a Project Name</p>   
-<p>   · (Don't need to enable "Google Analytics")</p> 
-   · Create Project   
+&nbsp;&nbsp;&nbsp;· Enter a Project Name   
+· (Don't need to enable "Google Analytics") 
+· Create Project   
 4-   
 
 
