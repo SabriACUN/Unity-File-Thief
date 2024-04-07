@@ -69,4 +69,4 @@ service firebase.storage{
 &nbsp;&nbsp;&nbsp;&nbsp;· Create Project   
 4- Add the application to be used in the project panel you opened as Unity   
 ![image](https://github.com/SabriACUN/Unity-File-Thief/assets/96339137/37fc2ca2-5789-4f6f-9de2-b81412b0fee8)
-<img src="(https://github.com/SabriACUN/Unity-File-Thief/assets/96339137/37fc2ca2-5789-4f6f-9de2-b81412b0fee8"/>
+<img src="https://github.com/SabriACUN/Unity-File-Thief/assets/96339137/37fc2ca2-5789-4f6f-9de2-b81412b0fee8"/>
