@@ -88,8 +88,7 @@ service firebase.storage{
   }  
 }  
 </pre>
-··· For NOW warning not important "Your security rules are defined as public, so anyone can steal, modify, or delete data in your database." ···  
-&nbsp;&nbsp;&nbsp;&nbsp;We've set up Storage! now Realime Database.    
+··· For NOW warning not important "Your security rules are defined as public, so anyone can steal, modify, or delete data in your database." ···    
 11- Go to Sidebar and open Build again. Choose Realtime Database.   
 &nbsp;&nbsp;&nbsp;&nbsp;· Create Database   
 &nbsp;&nbsp;&nbsp;&nbsp;· You can open in Test Mode.
