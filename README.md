@@ -91,8 +91,8 @@ service firebase.storage{
 ··· For NOW warning not important "Your security rules are defined as public, so anyone can steal, modify, or delete data in your database." ···    
 11- Go to Sidebar and open Build again. Choose Realtime Database.   
 &nbsp;&nbsp;&nbsp;&nbsp;· Create Database   
-&nbsp;&nbsp;&nbsp;&nbsp;· You can open in Test Mode.
-&nbsp;&nbsp;&nbsp;&nbsp;· Add a new var.   
+&nbsp;&nbsp;&nbsp;&nbsp;· You can open in Test Mode.   
+&nbsp;&nbsp;&nbsp;&nbsp;· Add a new var.    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yol  :   "path"   
 12- In the Sidebar there is a Settings Button. Click on it. Choose "Project Settings"   
 &nbsp;&nbsp;&nbsp;&nbsp;· "General > Your apps" Download "google-services"   
@@ -118,4 +118,7 @@ service firebase.storage{
 "StorageReference storageRef = storage.GetReferenceFromUrl("gs://file-thied.appspot.com/").Child(storagePath);" 
 </pre>
 &nbsp;&nbsp;&nbsp;&nbsp;· Delete that part  ""gs://file-thied.appspot.com/"" and paste your Url.     
-18- 
+18- Go to Editor and Set Referances for all scripts in Inspector   
+
+**Its Ready to Use !**
+- [How to Use](#ho-to-use)
