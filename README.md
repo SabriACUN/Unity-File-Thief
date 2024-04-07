@@ -7,10 +7,11 @@ Capture the files of users who installed the Application or Game you created in 
 
 
 ## Content
+- [How to Use](#how-to-use)
 - [Basic Step by Step - Setup](#set-up)
-- [Başlık 2](#başlık-2)
-- [Başlık 3](#başlık-3)
 
+
+## How to Use
 
 ## Set Up
 &nbsp;&nbsp;1- Open your new Unity Project on Unity Hub   
